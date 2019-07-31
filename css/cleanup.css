@@ -5,16 +5,7 @@
   background: none;
   display:none;
 }
-
-#wall > #tag-2 {
+#wall #tag-2 {
   background: none;
+  display: none;
 }
-
-
-#wall .slick wicked {
-  background: none;
-}
-
-/*#wall #tag-3.slick {*/
-/*  background: none;*/
-/*}*/
