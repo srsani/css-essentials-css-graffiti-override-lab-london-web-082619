@@ -15,3 +15,8 @@ div#wall div#tag-3.slick {
   background: none;
   display: none;
 }
+
+div.par div#tag-3.slick {
+  background: none;
+  display: none;
+}
