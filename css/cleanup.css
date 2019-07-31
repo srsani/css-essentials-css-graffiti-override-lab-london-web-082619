@@ -21,7 +21,7 @@ div#wall #tag-4{
   display: none;
 }
 
-div#wall #tag-5{
+div#wall .parent#tag-5{
   background: none;
   display: none;
 }
